@@ -32,3 +32,8 @@
 .posts-box {
     color: #333;
 }
+
+.posts-page p {
+    font-size: 20px;
+    line-height: 150%;
+}
