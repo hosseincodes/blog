@@ -1,0 +1,34 @@
+.blog {
+    padding: 40px !important;
+}
+
+.me {
+    margin-bottom: 20px;
+}
+
+.me-img {
+    width: 100%;
+    height: auto;
+}
+
+.me h1 {
+    font-size: 25px;
+    margin-top: 15px;
+}
+
+.me h3 {
+    font-size: 15px;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.me-title-h1 {
+    color: #333;
+}
+
+.posts-box {
+    color: #333;
+}
